@@ -1,3 +1,5 @@
+[![Build Status](https://dongenergy-p.visualstudio.com/Digitopia/_apis/build/status/Mithione.pipelines-javascript?branchName=master)](https://dongenergy-p.visualstudio.com/Digitopia/_build/latest?definitionId=3016&branchName=master)
+
 # Sample NodeJS application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
